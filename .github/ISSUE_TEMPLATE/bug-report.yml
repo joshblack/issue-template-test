@@ -1,0 +1,11 @@
+name: Bug
+description: Found something wrong? Create an issue here
+labels:
+  - 'type: bug'
+type: 'Bug'
+body:
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Share more about the issue
